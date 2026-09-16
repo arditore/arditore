@@ -12,6 +12,12 @@ Full-stack developer specialised in **digital forensics**.
 I work from low-level systems up to polished interfaces, and I care about
 minimal dependencies, reproducible builds and privacy-respecting architecture.
 
+<br>
+
+<a href="https://arditore.github.io/">
+<img src="https://img.shields.io/badge/arditore.github.io-2E8CB5?style=for-the-badge&logo=astro&logoColor=white" alt="Website" />
+</a>
+
 </div>
 
 <br>
@@ -25,6 +31,7 @@ minimal dependencies, reproducible builds and privacy-respecting architecture.
 <img src="https://img.shields.io/badge/Rust-2B2B2B?style=for-the-badge&logo=rust&logoColor=DEA584" />
 <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=4B8BBE" />
 <img src="https://img.shields.io/badge/Kotlin-2B2B2B?style=for-the-badge&logo=kotlin&logoColor=A97BFF" />
+<img src="https://img.shields.io/badge/TypeScript-2B2B2B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/PHP-2B2B2B?style=for-the-badge&logo=php&logoColor=8892BF" />
 <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
 
@@ -34,6 +41,7 @@ minimal dependencies, reproducible builds and privacy-respecting architecture.
 <br>
 <img src="https://img.shields.io/badge/HTML5-2B2B2B?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-2B2B2B?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Astro-2B2B2B?style=for-the-badge&logo=astro&logoColor=FF5D01" />
 <img src="https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue-2B2B2B?style=for-the-badge&logo=vuedotjs&logoColor=42B883" />
 
@@ -45,6 +53,7 @@ minimal dependencies, reproducible builds and privacy-respecting architecture.
 <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Linux-2B2B2B?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/Android-2B2B2B?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2B2B2B?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 <img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05033" />
 
 </div>
@@ -74,20 +83,27 @@ replacement for the three apps you use every day.
 </td>
 <td width="50%" valign="top">
 
-### More on the way
+### [arditore.github.io](https://arditore.github.io/)
 
-Current interests, and what the next repositories will look like:
+A personal site that sends nothing anywhere. Static,
+bilingual, and tested to stay that way.
 
-- Forensic tooling and artefact parsing
-- Systems work in Rust
-- Self-hosted, dependency-light web services
-- Anything that removes a tracker from a phone
+- No analytics, cookies or third-party requests
+- Self-hosted fonts, inlined SVG logos, ~600 bytes of JS
+- Light and dark are polar day and polar night
+- Built with Astro; CI blocks any privacy regression
 
-<sub><i>Watch this space — or say hello below.</i></sub>
+<a href="https://arditore.github.io/">
+<img src="https://img.shields.io/badge/Visit%20the%20site-E63946?style=for-the-badge&logo=astro&logoColor=white" alt="Visit arditore.github.io" />
+</a>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub><i>Writing about vulnerability research on the blog — in English and French.</i></sub>
+</div>
 
 <br>
 
@@ -96,6 +112,7 @@ Current interests, and what the next repositories will look like:
 <div align="center">
 
 <a href="mailto:arditore@tuta.io"><img src="https://img.shields.io/badge/arditore@tuta.io-2E8CB5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="https://arditore.github.io/"><img src="https://img.shields.io/badge/Website-2B2B2B?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/arditore"><img src="https://img.shields.io/badge/@arditore-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br><br>
