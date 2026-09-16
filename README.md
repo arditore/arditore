@@ -9,33 +9,101 @@
 <br><br>
 
 Full-stack developer specialised in **digital forensics**.
-From low-level systems to polished interfaces — minimal dependencies,
-privacy-respecting architecture.
+I work from low-level systems up to polished interfaces, and I care about
+minimal dependencies, reproducible builds and privacy-respecting architecture.
+
+</div>
 
 <br>
 
+<img src="assets/heading-stack.svg" alt="Stack" width="100%">
+
+<div align="center">
+
+<sub><b>LANGUAGES</b></sub>
+<br>
 <img src="https://img.shields.io/badge/Rust-2B2B2B?style=for-the-badge&logo=rust&logoColor=DEA584" />
 <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=4B8BBE" />
 <img src="https://img.shields.io/badge/Kotlin-2B2B2B?style=for-the-badge&logo=kotlin&logoColor=A97BFF" />
 <img src="https://img.shields.io/badge/PHP-2B2B2B?style=for-the-badge&logo=php&logoColor=8892BF" />
 <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
+
+<br><br>
+
+<sub><b>FRONTEND</b></sub>
 <br>
+<img src="https://img.shields.io/badge/HTML5-2B2B2B?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-2B2B2B?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue-2B2B2B?style=for-the-badge&logo=vuedotjs&logoColor=42B883" />
+
+<br><br>
+
+<sub><b>BACKEND &amp; INFRASTRUCTURE</b></sub>
+<br>
 <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=6CC24A" />
 <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Linux-2B2B2B?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/Android-2B2B2B?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05033" />
 
-<br><br>
-
-### Projects
-
-**[Seca](https://github.com/arditore/Seca)** &nbsp;·&nbsp; Contacts, phone and messages for Android
-<sub>Material 3 Expressive &nbsp;·&nbsp; no Google dependencies &nbsp;·&nbsp; end-to-end encrypted &nbsp;·&nbsp; Kotlin</sub>
+</div>
 
 <br>
 
-<a href="mailto:arditore@tuta.io"><img src="https://img.shields.io/badge/arditore@tuta.io-E63946?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<img src="assets/heading-projects.svg" alt="Projects" width="100%">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [Seca](https://github.com/arditore/Seca)
+
+Contacts, phone and messages for Android — one coherent
+replacement for the three apps you use every day.
+
+- Material 3 Expressive design
+- Zero Google dependencies
+- End-to-end encrypted messaging between Seca phones
+- Written in Kotlin
+
+<a href="https://github.com/arditore/Seca">
+<img src="https://img.shields.io/badge/Open%20repository-E63946?style=for-the-badge&logo=github&logoColor=white" alt="Open Seca" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### More on the way
+
+Current interests, and what the next repositories will look like:
+
+- Forensic tooling and artefact parsing
+- Systems work in Rust
+- Self-hosted, dependency-light web services
+- Anything that removes a tracker from a phone
+
+<sub><i>Watch this space — or say hello below.</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="assets/heading-contact.svg" alt="Contact" width="100%">
+
+<div align="center">
+
+<a href="mailto:arditore@tuta.io"><img src="https://img.shields.io/badge/arditore@tuta.io-2E8CB5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/arditore"><img src="https://img.shields.io/badge/@arditore-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" alt="Building in public" width="100%">
+</picture>
 
 </div>
